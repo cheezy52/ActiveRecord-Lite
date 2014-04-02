@@ -1,3 +1,1 @@
-After the project, you can review the solution here:
-
-* https://github.com/appacademy-solutions/active_record_lite/tree/solution
+ActiveRecord-Lite is a "homebrew" version of some of the functionality included in ActiveRecord, a prominent part of Rails.  It was generated primarily for deeper understanding of how ActiveRecord functions, and should not be used in any form of production code.
